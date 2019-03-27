@@ -1,0 +1,34 @@
+---
+title: Tea
+description: "You can't buy happiness, but you can buy tea and that's kind of the same thing."
+slug: tea
+adjective: Tea
+categories:
+  black:
+    title: Black
+    slug: black
+    adjective: Black
+  green:
+    title: Green
+    slug: green
+    adjective: Green
+  herbal:
+    title: Herbal
+    slug: herbal
+    adjective: Herbal
+  dark:
+    title: Dark
+    slug: dark
+    adjective: Dark
+  oolong:
+    title: Oolong
+    slug: oolong
+    adjective: Oolong
+  yellow:
+    title: Yellow
+    slug: yellow
+    adjective: Yellow
+  white:
+    title: White
+    slug: white
+    adjective: White

@@ -1,0 +1,13 @@
+---
+dumbbell:
+  title: Dumbbell
+  slug: dumbbell
+  adjective: Dumbbell Lifter
+barbell:
+  title: Barbell
+  slug: barbell
+  adjective: Barbell Lifter
+bodyweight:
+  title: Bodyweight
+  slug: bodyweight
+  adjective: Bodyweight Lifter

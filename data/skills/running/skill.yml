@@ -1,0 +1,18 @@
+---
+title: Running
+description: “Running is nothing more than a series of arguments between the part of your brain that wants to stop and the part that wants to keep going.” -— Unknown
+slug: running
+adjective: Running
+categories:
+  long_distance:
+    title: Long Distance
+    slug: long_distance
+    adjective: Long Distance
+  sprinting:
+    title: Sprinting
+    slug: sprinting
+    adjective: Sprinting
+  wheeling:
+    title: Wheeling
+    slug: wheeling
+    adjective: Wheeling

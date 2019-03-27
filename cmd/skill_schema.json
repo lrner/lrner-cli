@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "title":       { "type": "string" },
+    "description": { "type": "string" },
+    "slug":        { "type": "string" },
+    "adjective":   { "type": "string" },
+    "categories":  { "type": "object" }
+  },
+  "additionalProperties": false
+}

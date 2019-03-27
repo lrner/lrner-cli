@@ -1,0 +1,10 @@
+---
+dumbbell:
+  title: Dumbbell lifter
+  slug: dumbbell
+  adjective: Dumbbell Lifter
+  type: checklist
+  lead: "My max is: "
+  items:
+    squat: "Squat"
+    benchpress: "Bench Press"

@@ -1,0 +1,12 @@
+---
+bodyweight:
+  title: Bodyweight
+  slug: bodyweight
+  adjective: Bodyweight Exerciser
+  type: count
+  lead: "My max is: "
+  items:
+    pullups: Pull-ups
+    pushups: Push-ups
+    situps: Sit-ups
+    squats: Squats

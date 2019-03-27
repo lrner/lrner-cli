@@ -1,0 +1,22 @@
+---
+egg_chef:
+  title: Egg Chef
+  slug: egg_chef
+  adjective: Egg Chef
+  types: checklist
+  lead: "I know how to make: "
+  items:
+    hard_boiled: Hard Boiled
+    soft_boiled: Soft Boiled
+    scrambled: Scrambled
+    omelette: Omelette
+    frittata: Frittata
+    scramble: Scramble
+    spanish_omelette: Spanish Omelette
+    sunny_side_up: Sunny Side Up
+    over_easy: Over Easy
+    over_medium: Over Medium
+    over_hard: Over Hard
+    poached: Poached
+    baked: Baked
+    basted: Basted

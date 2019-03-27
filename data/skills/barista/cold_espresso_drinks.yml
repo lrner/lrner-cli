@@ -1,0 +1,10 @@
+---
+cold_espresso_drinks:
+  title: Cold Espresso Drinks
+  slug: cold_espresso_drinks
+  adjective: Frapuccinista
+  type: checklist
+  lead: "I know how to make: "
+  items:
+    affogato: Affogato
+    cafe_con_hielo: Cafe Con Hielo

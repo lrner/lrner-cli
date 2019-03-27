@@ -1,0 +1,12 @@
+---
+barbell:
+  title: Barbell
+  slug: barbell
+  adjective: Barbell Lifter
+  types:
+    - weight
+    - reps
+  lead: "My max is: "
+  items:
+    squat: "Squat"
+    benchpress: "Bench Press"

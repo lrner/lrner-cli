@@ -1,0 +1,20 @@
+---
+india:
+  title: India
+  slug: india
+  description: "Teas from India"
+  items:
+    - assam: "Assam"
+    - darjeeling: "Darjeeling"
+    - kangra: "Kangra"
+    - munnar: "Munnar"
+    - nilgiri: "Nilgiri"
+taiwan:
+  title: Taiwan
+  slug: taiwan
+  description: "Teas from Taiwan"
+  items:
+    - 
+
+lapsang_souchong: "Lapsang Souchong"
+keemun: "Keemon"

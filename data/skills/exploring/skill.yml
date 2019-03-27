@@ -1,0 +1,18 @@
+---
+title: Exploring
+description: The 100 folds of the toque(Chef's hat) are said to represent the many different ways a chef knows to cook an egg.  I don't know if there are 100, but have you tried all of these?
+slug: exploring
+adjective: Explorer
+categories:
+  countries:
+    title: Countries
+    slug: countries
+    adjective: Countries
+  us_states:
+    title: US States
+    slug: us_states
+    adjective: US States
+  us_national_parks:
+    title: US National Parks
+    slug: us_national_parks
+    adjective: US National Parks

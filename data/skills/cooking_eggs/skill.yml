@@ -1,0 +1,10 @@
+---
+title: Egg Chef
+description: The 100 folds of the toque(Chef's hat) are said to represent the many different ways a chef knows to cook an egg.  I don't know if there are 100, but have you tried all of these?
+slug: egg_chef
+adjective: Egg Chef
+categories:
+  egg_chef:
+    title: Egg Chef
+    slug: egg_chef
+    adjective: Egg Chef

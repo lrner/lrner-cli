@@ -1,0 +1,9 @@
+---
+espresso_drinks:
+  title: Espresso Drinks
+  slug: espresso_drinks
+  adjective: Espresso Barista
+cold_espresso_drinks:
+  title: Cold Espresso Drinks
+  slug: cold_espresso_drinks
+  adjective: Frapuccinista

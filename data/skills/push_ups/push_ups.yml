@@ -1,0 +1,41 @@
+---
+push_ups:
+  title: Push Ups
+  slug: push_ups
+  adjective: Push Ups
+  type: count
+  lead: "Here's how many push-ups I can do in a day:"
+  items:
+    - title: Traditional pushup
+      slug: traditional-pushup
+      description: The basic starting point.
+    - title: Wide-grip pushup
+      slug: wide-grip-pushup
+      description: Engages the shoulders more.
+    - title: Close-grip pushup
+      slug: close-grip-pushup
+      description: Engages the triceps more.
+    - title: Clap pushup
+      slug: clap-pushup
+      description: Improves power and explosiveness.
+    - title: One-leg pushup
+      slug: one-leg-pushup
+      description: Engages the core more.
+    - title: Dead-stop pushup
+      slug: dead-stop-pushup
+      description: Also known as a “hand-release pushup,” this can help ease tension on the joints.
+    - title: Eccentric pushup
+      slug: eccentric-pushup
+      description: Emphasizes the muscle-lengthening phase of the pushup, enabling you to change the stimulus on your muscles.
+    - title: Spider-Man pushup
+      slug: spider-man-pushup
+      description: Engages the core more and improves hip mobility.
+    - title: One-armed incline pushup
+      slug: one-armed-incline-pushup
+      description: Forces the chest to work in an unbalanced state.
+    - title: Decline pushup
+      slug: decline-pushup
+      description: Works more of the upper chest and shoulders.
+    - title: Incline pushup
+      slug: incline-pushup
+      description: Works more of the lower chest and triceps.

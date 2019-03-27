@@ -1,0 +1,24 @@
+---
+us_national_parks:
+  title: US National Parks
+  slug: us_national_parks
+  adjective: National Parks Explorer
+  type: checklist
+  lead: "I've Visited:"
+  items:
+    acadia:
+      title: acadia
+      location: 44.35°N 68.21°W
+      description: Covering most of Mount Desert Island and other coastal islands, Acadia features the tallest mountain on the Atlantic coast of the United States, granite peaks, ocean shoreline, woodlands, and lakes. There are freshwater, estuary, forest, and intertidal habitats.
+    american_samoa:
+      title: American Samoa
+      location: 14.25°S 170.68°W
+      description: The southernmost national park is on three Samoan islands and protects coral reefs, rainforests, volcanic mountains, and white beaches. The area is also home to flying foxes, brown boobies, sea turtles, and 900 species of fish.
+    arches:
+      title: Arches
+      location: 38.68°N 109.57°W
+      description: This site features more than 2,000 natural sandstone arches, with some of the most popular arches in the park being Delicate Arch, Landscape Arch and Double Arch.[14] Millions of years of erosion have created these structures located in a desert climate where the arid ground has life-sustaining biological soil crusts and potholes that serve as natural water-collecting basins. Other geologic formations include stone pinnacles, fins, and balancing rocks.
+    badlands:
+      title: Badlands
+      location: 43.75°N 102.50°W
+      description: The Badlands are a collection of buttes, pinnacles, spires, and mixed-grass prairies. The White River Badlands contain the largest assemblage of known late Eocene and Oligocene mammal fossils.[16] The wildlife includes bison, bighorn sheep, black-footed ferrets, and prairie dogs.

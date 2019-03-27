@@ -1,0 +1,12 @@
+---
+rooiboos:
+  title: Herbal
+  slug: herbal
+  adjective: Herbal Tea Drinker
+  types:
+    - checklist
+  lead: "I've drank:"
+  items:
+    - title: Rooibos
+      slug: rooibos
+      description: rooibos

@@ -1,0 +1,12 @@
+---
+barbell:
+  title: Sprinting
+  slug: sprinting
+  adjective: sprinter
+  types:
+    - time
+  lead: "I can run in: "
+  items:
+    100m: "100 meter dash"
+    200m: "200 meter dash"
+    400m: "400 meter dash"

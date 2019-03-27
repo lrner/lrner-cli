@@ -1,0 +1,13 @@
+---
+sprinting:
+  title: Sprinting
+  slug: sprinting
+  adjective: Sprinter
+long_distance:
+  title: Long Distance
+  slug: long_distance
+  adjective: Long Distance Runner
+wheeling:
+  title: Wheeling
+  slug: wheeling
+  adjective: Wheeler

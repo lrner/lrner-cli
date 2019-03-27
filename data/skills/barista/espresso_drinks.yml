@@ -1,0 +1,19 @@
+---
+espresso_drinks:
+  title: Espresso Drinks
+  slug: espresso_drinks
+  adjective: Espresso Barista
+  type: checklist
+  lead: "I know how to make: "
+  items:
+    espresso: Espresso
+    double_espresso: Double Espresso
+    macchiato: Macchiato
+    capuccino: Cappuccino
+    dry_capuccino: Dry Cappuccino
+    cafe_latte: Cafe Latte
+    gibraltar: Gibraltar (Cortado)
+    americano: Americano
+    cafe_mocha: Cafe Mocha
+    flat_white: Flat White
+    iced_coffee: Iced Coffee

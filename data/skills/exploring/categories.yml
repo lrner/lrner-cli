@@ -1,0 +1,13 @@
+---
+countries:
+  title: Countries
+  slug: countries
+  adjective: International Traveler
+us_states:
+  title: US States
+  slug: us_states
+  adjective: United States Explorer
+us_national_parks:
+  title: US National Parks
+  slug: us_national_parks
+  adjective: US Park Hiker

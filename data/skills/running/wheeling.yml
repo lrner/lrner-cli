@@ -1,0 +1,19 @@
+---
+wheeling:
+  title: Wheelchair racing
+  slug: wheeling
+  adjective: Wheelchair racer
+  types:
+    - time
+  lead: "I can complete in: "
+  items:
+    100m: "100 Meters"
+    10km: "10km"
+    15km: "15km"
+    20km: "20km"
+    25km: "25km"
+    50km: "50km"
+    100km: "100km"
+    marathon: "Marathon"
+    50mi: "50 Miles"
+    100mi: "100 Miles"
